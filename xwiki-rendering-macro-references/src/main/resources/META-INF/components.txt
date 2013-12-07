@@ -1,0 +1,2 @@
+org.xwiki.rendering.references.ReferenceMacro
+org.xwiki.rendering.references.ReferencesMacro
